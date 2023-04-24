@@ -1,3 +1,3 @@
 # AppWebProfile
-npm i expo
-npx expo start
+/ npm i expo
+/npx expo start
